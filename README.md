@@ -1,1 +1,1 @@
-# cybersec-assignment-FortuneCloud
+# Cybersec-Assignment-FortuneCloud
