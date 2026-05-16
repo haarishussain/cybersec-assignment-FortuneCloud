@@ -78,7 +78,7 @@ Mitigation Recommendations
 - Monitor network traffic for anomalous patterns using IDS/IPS
 
 Screenshots
-See /Task3/screenshots/ folder
+See /Task3/ folder
 
 Conclusion
 Task 3 demonstrated live packet capture using Wireshark showing HTTP, TCP, ARP and DNS traffic. John the Ripper successfully identified and loaded an MD5 password hash for cracking. Hydra successfully brute-forced FTP credentials on Metasploitable, confirming the dangers of weak passwords and unencrypted protocols.
