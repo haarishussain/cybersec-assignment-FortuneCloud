@@ -15,4 +15,4 @@ Key Findings
 - OS: Linux 2.6.x (Ubuntu 8.04)
 
 Screenshots
-See /Task1/screenshots/ folder
+See /Task1/ folder
