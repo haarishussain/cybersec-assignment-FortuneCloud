@@ -66,7 +66,7 @@ Mitigation Recommendations
 - Set DVWA security to High in production environments
 
 Screenshots
-See /Task2/screenshots/ folder
+See /Task2/ folder
 
 Conclusion
 Task 2 demonstrated automated vulnerability scanning using Nikto and manual web application testing on DVWA. Critical vulnerabilities including SQL Injection and XSS were successfully exploited in the controlled lab environment, confirming the importance of input validation and security headers in web applications.
